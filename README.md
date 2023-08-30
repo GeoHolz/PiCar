@@ -1,6 +1,7 @@
 # PiCar
 
 Projet de voiture télécommandé en Wifi, à base de Raspberri Pi et de sa caméra.
+Ce projet date de 2018 et n'est plus à jour.
 
 ## Prototypage sur breadboard
 Pour commander les moteurs, on ne peut pas directement les raccorder au Pi, car celui ci ne délivre que 5V, et qu’une vingtaine de mA, ce qui ne suffit pas pour des moteurs.
